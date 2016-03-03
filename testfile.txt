@@ -1,4 +1,4 @@
 beta
-alpha
+alpha-2
 delta
 gamma
